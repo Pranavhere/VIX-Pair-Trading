@@ -11,6 +11,8 @@ The research thesis explores the relationship between Nifty and Bank Nifty indic
 - Time To Expiry (TTE) for each data point
 - Trading hours: 09:15 to 15:30 (Indian market hours)
 
+Dataset is available on Kaggle: [Nifty-Banknifty VIX Data (Jan 2021-Jun2022)](https://www.kaggle.com/datasets/pranavlakhotiakaggle/nifty-banknifty-vix-data-jan-2021-jun2022/data)
+
 ## Data Processing Pipeline
 
 ### 1. Initial Data Cleaning (`Cleaning_data.ipynb`)
